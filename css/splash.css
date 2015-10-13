@@ -5,13 +5,12 @@
 }
 
 a {
-  color: white;
+  color: #1f77d6;
   text-decoration: none;
 }
 
 a:hover {
-    color: #FF704D;
-    color: #222222;
+  color: #222222;
 }
 
 /*
@@ -19,9 +18,11 @@ a:hover {
  * Most of these are inherited from Base, but I want to change a few.
  */
 body {
+    background-image: url("../img/squairy_light.png");
     line-height: 1.7em;
-    color: #7f8c8d;
+    color: #EEEEEE;
     font-size: 20px;
+    font-family: 'Aller', sans-serif;
 }
 
 h1,
@@ -142,7 +143,8 @@ a.pure-button-primary {
  */
 
 .splash-container {
-    background: #1f76d6;
+    background-image: url("../img/squairy_light.png");
+    background: #EEEEEE;
     z-index: 1;
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
@@ -167,18 +169,13 @@ a.pure-button-primary {
 /* This is the main heading that appears on the blue section */
 .splash-head {
     font-size: 40px;
-    font-weight: bold;
-    color: white;
-    border: 3px solid white;
-    padding: 0.75em 0.75em 0.75em 0.75em;
-    font-weight: 100;
-    border-radius: 5px;
+    color: #222222;
     line-height: 1em;
 }
 
 /* This is the subheading that appears on the blue section */
 .splash-subhead {
-    color: white;
+    color: #222222;
     letter-spacing: 0.1em;
 }
 
