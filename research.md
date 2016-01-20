@@ -8,8 +8,8 @@ title:
 I'm currently applying to graduate programs that incorporate the following flavors of research:
 
 * Molecular evolution
-* Genomics & Systems Biology
-* Biological design and synthetic biology
+* Genomics & systems biology
+* Biological design & synthetic biology
 
-I'm particularly interested in exploring the molecular diversity of non-model organisms and how that can aid our ability to program cells.
+I'm particularly interested in exploring the molecular diversity of non-model organisms to better understand the mechanisms behind molecular evolution events and to enhance our ability to program cells.
 
