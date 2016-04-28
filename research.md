@@ -5,11 +5,6 @@ title:
 
 ## Research
 
-I'm currently applying to graduate programs that incorporate the following flavors of research:
+I'm interested in working at the interface of molecular and evolutionary biology. More specifically, I'm interested in understanding the molecular mechanisms that give rise to evolutionary novelties at the cellular, organismal, and ecological scale.
 
-* Molecular evolution
-* Genomics & systems biology
-* Biological design & synthetic biology
-
-I'm particularly interested in exploring the molecular diversity of non-model organisms to better understand the mechanisms behind molecular evolution events and to enhance our ability to program cells.
-
+I will be starting my tenure at the University of Chicago as a graduate student in the [Molecular Biosciences](http://bmb.bsd.uchicago.edu/) program starting in the Fall of 2016.
