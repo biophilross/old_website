@@ -26,3 +26,6 @@ _site
 _cache
 _data
 .Rproj.user
+
+# directory specific bash history
+.dir_bash_history
