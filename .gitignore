@@ -24,7 +24,6 @@ node_modules
 # Jekyll things
 _site
 _cache
-_data
 .Rproj.user
 
 # directory specific bash history
