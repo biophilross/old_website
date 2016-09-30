@@ -1,3 +1,3 @@
-# Personal website
+# Personal webpage
 
-This is the repo for my personal website built using [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll)
+Simple personal webpage with template borrowed from [https://github.com/cathydeng/simple-website-template](https://github.com/cathydeng/simple-website-template).

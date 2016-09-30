@@ -1,0 +1,44 @@
+img {
+    height: 200px;
+    margin: 10px;
+}
+
+.colored-header {
+    background-color: #e3ebee;
+    margin-bottom: 30px;
+}
+
+.circle {
+    width:30px;
+    height:30px;
+    background: #eee;
+    padding: 0px 11px 0px 11px;
+    border-radius: 100%;
+}
+
+.step-detail {
+    margin-left: 45px;
+}
+
+#face img {
+  border-radius: 100%;
+  display: block;
+  margin: 0 auto;
+  height: 190px;
+  width: 215px;
+	margin-bottom: 20px;
+}
+
+footer {
+	margin: 25px;
+}
+
+@media only screen and (max-width : 767px) { 
+  #face{
+    padding-top: 0px;
+  }
+  .content {
+    padding-top: 40px;
+  }
+
+}
