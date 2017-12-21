@@ -38,7 +38,7 @@ knitr::read_chunk("chunks.R")
 
 ```{r, echo=FALSE}
 htmltools::div(
-  style="position:absolute;top:3%;right:3%;",
+  style="position:absolute;top:2%;right:2%;",
   htmltools::strong(
     htmltools::h3(
       htmltools::a(href="http://pzross.com", "Home")
@@ -52,12 +52,17 @@ Interesting stuff I read about haphazardly organized into topics. On this page I
 
 ## Peto's Paradox
 
+### Cat's Roundtable
+
 Extant mammals come in many shapes and sizes. On one end of the spectrum, we have the [Kitti's hog-nosed bat](https://en.wikipedia.org/wiki/Kitti%27s_hog-nosed_bat) (*Craseonycteris thonglongyai*), measuring in at just over an inch in height and weighing in at a colossal 2 grams. On the other end you have the [African forest elephant](https://en.wikipedia.org/wiki/African_forest_elephant), measuring in at roughly 2.5 meters in height and weighing in at a paltry 6,000 lbs (~2.7 million grams). This difference in size is accounted for by the orders-of-magnitude more cells that make up the African forest elephant as compared to the hog-nosed bat. This applies to more or less any mammalian size comparison between those large and small. Now let's consider a thought experiment: shouldn't larger mammals, such as an elephant, get cancer more often than a small mammal, such as the hog-nosed bat? If we assume that each cell within and across mammals has a more or less equal likelihood of going rogue and becoming cancerous, then the answer should be yes. However, in 1977, Richard Peto, a statistical epidemiologist at the University of Oxford, noticed that this wasn't the case. In fact, you see almost a complete lack of a relationship, as depicted in the figure below:
 
 <br>
+<br>
 <center>
-![Peto's Paradox](img/petos_paradox.jpg)<br><br>
-<strong>Figure 1 from [Maley et al. 2017](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0401-7)</strong>
+![Peto's Paradox](img/petos_paradox.jpg)
+<br>
+<br>
+<strong>Figure 1 as seen in [Maley et al. 2017](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0401-7)</strong>
 </center>
 <br>
 
