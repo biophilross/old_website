@@ -25,7 +25,7 @@ knitr::read_chunk("chunks.R")
 
 <!-- Insert the code version (Git commit SHA1) if Git repository exists and R
  package git2r is installed -->
-```{r code-version, echo=FALSE, results='asis'}
+```{r code-version, include=FALSE, echo=FALSE, results='asis'}
 ```
 
 <!-- packages -->
@@ -47,9 +47,23 @@ htmltools::div(
 )
 ```
 
-Interesting stuff I read about haphazardly organized into topics. On this page I aim to keep things concise. Currently I use [Pocket](https://getpocket.com/) to save links to interesting reads.
+Stuff I read about. Currently I use [Pocket](https://getpocket.com/) to save links to interesting reads.
+
+## Genetics
+
+### Human genetics
+
+I was born in Germany. If I could look one thousand years back in time, I would see that I am descended from nearly everyone everywhere in Europe. If I could look back a few thousand years more, I would see that I am a descendant of nearly everyone who left descendants almost everywhere in the world. 
+
+How could this be true? Read the following three fantastic blog posts by [Graham Coop of UC Davis](https://gcbias.org/) to find out.
+
+* [Our vast, shared family tree](https://gcbias.org/2017/11/20/our-vast-shared-family-tree/) 
+* [Your ancestors lived all over the world](https://gcbias.org/2017/11/28/your-ancestors-lived-all-over-the-world/)
+* [Where did your genetic ancestors come from?](https://gcbias.org/2017/12/19/1628/)
 
 ## Peto's Paradox
+
+**TL;DR:** Data suggests that large mammals have evolved a means to reduce their incidence of cancer.
 
 Extant mammals come in many shapes and sizes. On one end of the spectrum, we have the [Kitti's hog-nosed bat](https://en.wikipedia.org/wiki/Kitti%27s_hog-nosed_bat) (*Craseonycteris thonglongyai*), measuring in at just over an inch in height and weighing in at a colossal 2 grams. On the other end, you have the [African forest elephant](https://en.wikipedia.org/wiki/African_forest_elephant) (*Loxodonta cyclotis*), measuring in at roughly 2.5 meters in height and weighing in at a paltry 6,000 lbs (~2.7 million grams). This difference in size is accounted for by the orders-of-magnitude more cells that make up the African forest elephant as compared to the hog-nosed bat. This also applies to more or less any mammalian size comparison between those large and small. 
 
@@ -77,7 +91,7 @@ This means that our assumptions must, in one way or another, be incorrect and su
 
 I often wonder how much can be extrapolated from experimental results derived from *in vitro* cell culture models. Here, Xu et al. show that ~600 different human cancer cell lines grown in culture undergo "chromosomal evolution", and unexpectedly converge to an X chromosome to autosome ratio of 2:3. This paper stood out to me because it reconfirmed something that I (and I assume the rest of the biology community) already knew: that immortalized cell lines are often genetically unstable. But these results suggest that it may not be entirely unpredictable and maybe we can use that to better interpret data derived from *in vitro* cell culture experiments.
 
-Here is the paper of interest and a commntary:
+Here is the paper of interest and a commentary:
 
 * [Free-living human cells reconfigure their chromosomes in the evolution back to uni-cellularity](https://elifesciences.org/articles/28070)
 * [Sex Chromosome Evolution: Culture shock](https://elifesciences.org/articles/33312)
