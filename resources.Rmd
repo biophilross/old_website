@@ -1,0 +1,68 @@
+---
+title: "Resources"
+output: 
+  html_document:
+    theme: yeti
+    highlight: textmate
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+editor_options: 
+  chunk_output_type: console
+---
+
+<!-- The file chunks.R contains chunks that define default settings -->
+```{r read-chunk, include=FALSE, cache=FALSE}
+knitr::read_chunk("chunks.R")
+```
+
+<!-- Update knitr chunk options -->
+```{r knitr-opts-chunk, include=FALSE}
+```
+
+<!-- Insert the date the file was last updated -->
+```{r last-updated, echo=FALSE, results='asis'}
+```
+
+<!-- Insert the code version (Git commit SHA1) if Git repository exists and R
+ package git2r is installed -->
+```{r code-version, include=FALSE, echo=FALSE, results='asis'}
+```
+
+<!-- packages -->
+```{r packages, echo=FALSE, include=FALSE}
+```
+
+<!-- custom defined functions -->
+```{r custom-functions, echo=FALSE}
+```
+
+```{r, echo=FALSE}
+htmltools::div(
+  style="position:absolute;top:1.5%;right:5%;",
+  htmltools::strong(
+    htmltools::h3(
+      htmltools::a(href="http://pzross.com", "Home")
+    )
+  )
+)
+```
+
+## Lab protocols
+
+[Scilifelab](http://www.scilifelab.com/)  
+[Addgene](https://www.addgene.org/protocols/)
+[Methodbook](http://www.methodbook.net/)
+[Molarity calculator](https://owww.molgen.mpg.de/~soldatov/protocols/scripts/h01_04.html)
+[Protocol-online](http://www.protocol-online.org/)
+[Biowww](http://www.biowww.net/)
+
+
+## Statistics
+
+[Always use Welch's t-test](http://daniellakens.blogspot.co.uk/2015/01/always-use-welchs-t-test-instead-of.html)
+
+## Population genetics
+
+[UCSC Lecture Notes](http://bio.classes.ucsc.edu/bio107/bio107lectures.htm)

@@ -8,6 +8,8 @@ output:
     toc_float:
       collapsed: false
       smooth_scroll: false
+editor_options: 
+  chunk_output_type: console
 ---
 
 <!-- The file chunks.R contains chunks that define default settings -->
@@ -100,7 +102,7 @@ Here is the paper of interest and a commentary:
 
 For any naturalists out there, you needn't go far to observe animals few know exist, such as the tardigrade, also known as a water bear. I came across this online research guide as I was looking into finding some myself just to get a good look at one up close:
 
-* [Tardigrade Research Guide ](http://tardigraderesearch.blogspot.com/)
+* [Tardigrade Research Guide](http://tardigraderesearch.blogspot.com/)
 
 And if you've never heard of a tardigrade before:
 
