@@ -49,6 +49,8 @@ htmltools::div(
 )
 ```
 
+Useful online resources
+
 ## Lab protocols
 
 [Scilifelab](http://www.scilifelab.com/)  
