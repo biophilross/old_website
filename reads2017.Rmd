@@ -1,5 +1,5 @@
 ---
-title: "Reads"
+title: "Reads 2017"
 output: 
   html_document:
     theme: yeti
@@ -49,7 +49,7 @@ htmltools::div(
 )
 ```
 
-Stuff I read about. Currently I use [Pocket](https://getpocket.com/) to save links to interesting reads.
+Stuff I read in 2017. 
 
 ## Genetics
 
@@ -107,3 +107,21 @@ For any naturalists out there, you needn't go far to observe animals few know ex
 And if you've never heard of a tardigrade before:
 
 * [Tardigrade Quick Guide](http://labs.bio.unc.edu/Goldstein/GoldBl02.pdf)
+
+Here are some videos from what I found.
+
+**A tardigrade named Henry**
+
+<iframe src="https://player.vimeo.com/video/249978908" width="350" height="350" frameborder="" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+**A [rotifer](https://en.wikipedia.org/wiki/Rotifer)**
+
+<iframe src="https://player.vimeo.com/video/249979111" width="350" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+**A nematode, most likely _C. elegans_**
+
+<iframe src="https://player.vimeo.com/video/249979010" width="350" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+**And a protist**
+
+<iframe src="https://player.vimeo.com/video/249979078" width="350" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

@@ -1,0 +1,52 @@
+---
+title: "Reads 2018"
+output: 
+  html_document:
+    theme: yeti
+    highlight: textmate
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+editor_options: 
+  chunk_output_type: console
+---
+
+<!-- The file chunks.R contains chunks that define default settings -->
+```{r read-chunk, include=FALSE, cache=FALSE}
+knitr::read_chunk("chunks.R")
+```
+
+<!-- Update knitr chunk options -->
+```{r knitr-opts-chunk, include=FALSE}
+```
+
+<!-- Insert the date the file was last updated -->
+```{r last-updated, echo=FALSE, results='asis'}
+```
+
+<!-- Insert the code version (Git commit SHA1) if Git repository exists and R
+ package git2r is installed -->
+```{r code-version, include=FALSE, echo=FALSE, results='asis'}
+```
+
+<!-- packages -->
+```{r packages, echo=FALSE, include=FALSE}
+```
+
+<!-- custom defined functions -->
+```{r custom-functions, echo=FALSE}
+```
+
+```{r, echo=FALSE}
+htmltools::div(
+  style="position:absolute;top:1.5%;right:5%;",
+  htmltools::strong(
+    htmltools::h3(
+      htmltools::a(href="http://pzross.com", "Home")
+    )
+  )
+)
+```
+
+Stuff I read in 2018.
