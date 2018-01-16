@@ -38,17 +38,6 @@ knitr::read_chunk("chunks.R")
 ```{r custom-functions, echo=FALSE}
 ```
 
-```{r, echo=FALSE}
-htmltools::div(
-  style="position:absolute;top:1.5%;right:5%;",
-  htmltools::strong(
-    htmltools::h3(
-      htmltools::a(href="http://pzross.com", "Home")
-    )
-  )
-)
-```
-
 Stuff I read in 2018.
 
 ## Animals

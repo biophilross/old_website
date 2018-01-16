@@ -1,16 +1,19 @@
 ---
-title: "Resources"
+title: "HLA-F in immunity, reproduction, and primate evolution"
 output: 
   html_document:
     theme: yeti
     highlight: textmate
-    toc: true
-    toc_float:
-      collapsed: false
-      smooth_scroll: false
 editor_options: 
   chunk_output_type: console
 ---
+
+<style>
+h2 {
+  background-color: #e3ebee;
+  text-indent: 5px; 
+}
+</style>
 
 <!-- The file chunks.R contains chunks that define default settings -->
 ```{r read-chunk, include=FALSE, cache=FALSE}
@@ -38,23 +41,4 @@ knitr::read_chunk("chunks.R")
 ```{r custom-functions, echo=FALSE}
 ```
 
-Useful online resources
-
-## Lab protocols
-
-[Scilifelab](http://www.scilifelab.com/)  
-[Addgene](https://www.addgene.org/protocols/)  
-[Methodbook](http://www.methodbook.net/)  
-[Molarity calculator](https://owww.molgen.mpg.de/~soldatov/protocols/scripts/h01_04.html)  
-[Protocol-online](http://www.protocol-online.org/)  
-[Biowww](http://www.biowww.net/)  
-
-
-## Statistics
-
-[Always use Welch's t-test](http://daniellakens.blogspot.co.uk/2015/01/always-use-welchs-t-test-instead-of.html)
-
-
-## Population genetics
-
-[UCSC Lecture Notes](http://bio.classes.ucsc.edu/bio107/bio107lectures.htm)
+My research on immunity, reproduction, and evolution so it can be understood by high schoolers.

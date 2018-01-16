@@ -1,16 +1,19 @@
 ---
-title: "piRNA"
+title: "Protection by piRNAs"
 output: 
   html_document:
     theme: yeti
     highlight: textmate
-    toc: true
-    toc_float:
-      collapsed: false
-      smooth_scroll: false
 editor_options: 
   chunk_output_type: console
 ---
+
+<style>
+h2 {
+  background-color: #e3ebee;
+  text-indent: 5px; 
+}
+</style>
 
 <!-- The file chunks.R contains chunks that define default settings -->
 ```{r read-chunk, include=FALSE, cache=FALSE}
@@ -38,14 +41,4 @@ knitr::read_chunk("chunks.R")
 ```{r custom-functions, echo=FALSE}
 ```
 
-```{r, echo=FALSE}
-htmltools::div(
-  style="position:absolute;top:1.5%;right:5%;",
-  htmltools::strong(
-    htmltools::h3(
-      htmltools::a(href="http://pzross.com", "Home")
-    )
-  )
-)
-```
-
+Domestic chickens activate a piRNA defense against avian leukosis virus
