@@ -1,5 +1,5 @@
 ---
-title: "Reads 2018"
+title: "piRNA"
 output: 
   html_document:
     theme: yeti
@@ -49,12 +49,3 @@ htmltools::div(
 )
 ```
 
-Stuff I read in 2018.
-
-## Animals
-
-### Dolphins are smarter than you know
-
-https://www.theguardian.com/environment/2014/jun/08/the-dolphin-who-loved-me
-
-https://www.theguardian.com/science/2003/jul/03/research.science

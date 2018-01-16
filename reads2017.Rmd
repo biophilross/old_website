@@ -112,7 +112,7 @@ Here are some videos from what I found.
 
 **A tardigrade named Henry**
 
-<iframe src="https://player.vimeo.com/video/249978908" width="350" height="350" frameborder="" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/249978908" width="350" height="350" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 **A [rotifer](https://en.wikipedia.org/wiki/Rotifer)**
 
