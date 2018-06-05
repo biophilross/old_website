@@ -40,6 +40,11 @@ knitr::read_chunk("chunks.R")
 
 Stuff I read in 2018.
 
+## Virome
+
+[An enteric virus can replace the beneficial function of commensal bacteria](https://www.nature.com/articles/nature13960)
+[Microbiology: A backup for bacteria](https://www.nature.com/articles/nature13938)
+
 ## Animals
 
 ### Dolphins are smarter than you know
