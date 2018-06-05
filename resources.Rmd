@@ -46,6 +46,7 @@ Useful online resources
 
 [Ligation calculator](http://www.insilico.uni-duesseldorf.de/Lig_Input.html)  
 
+[OligoAnalyzer](http://idtdna.com/calc/analyzer)  
 [Scilifelab](http://www.scilifelab.com/)  
 
 [Addgene](https://www.addgene.org/protocols/)  
@@ -53,12 +54,23 @@ Useful online resources
 [Methodbook](http://www.methodbook.net/)  
 
 [Molarity calculator](https://owww.molgen.mpg.de/~soldatov/protocols/scripts/h01_04.html)  
+<<<<<<< HEAD
 
 [GraphPad molarity calculator](https://owww.molgen.mpg.de/~soldatov/protocols/scripts/h01_04.html)  
 
+=======
+[GraphPad molarity calculator](https://owww.molgen.mpg.de/~soldatov/protocols/scripts/h01_04.html)  
+>>>>>>> 21e093cc244f6fa1ce3ace9c5fa3e6ecdf963a2f
 [Protocol-online](http://www.protocol-online.org/)  
 
 [Biowww](http://www.biowww.net/)  
+[Solutions and dilutions](https://www.training.nih.gov/assets/Lab_Math_II_Transcript_-_508.pdf)
+
+## Pregnancy, embryology, reproduction
+
+[UNSW embryology](https://embryology.med.unsw.edu.au)  
+[Comparative placentation](http://placentation.ucsd.edu/homefs.html)  
+[Placental Structure and Classification](http://www.vivo.colostate.edu/hbooks/pathphys/reprod/placenta/structure.html)
 
 [Solutions and dilutions](https://www.training.nih.gov/assets/Lab_Math_II_Transcript_-_508.pdf)
 
