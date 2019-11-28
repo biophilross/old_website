@@ -31,7 +31,7 @@ cat(sprintf("**Code version:** %s", code_version))
 rm(code_version)
 
 # ---- packages ----
-library(cowplot)
-library(DT)
+#library(cowplot)
+#library(DT)
 
 # ---- custom-functions ----
