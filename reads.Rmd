@@ -1,19 +1,16 @@
 ---
-title: "Protection by piRNAs"
+title: "Reads"
 output: 
   html_document:
     theme: yeti
     highlight: textmate
+    toc: false
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
 editor_options: 
   chunk_output_type: console
 ---
-
-<style>
-h2 {
-  background-color: #e3ebee;
-  text-indent: 5px; 
-}
-</style>
 
 <!-- The file chunks.R contains chunks that define default settings -->
 ```{r read-chunk, include=FALSE, cache=FALSE}
@@ -41,4 +38,13 @@ knitr::read_chunk("chunks.R")
 ```{r custom-functions, echo=FALSE}
 ```
 
-Domestic chickens activate a piRNA defense against avian leukosis virus
+The readings I would like to remember and come back to from time to time.
+
+[The bus ticket theory of genius](http://www.paulgraham.com/genius.html)
+
+A trilogy on human genetics:  
+
+* [Our vast, shared family tree](https://gcbias.org/2017/11/20/our-vast-shared-family-tree/)  
+* [Your ancestors lived all over the world](https://gcbias.org/2017/11/28/your-ancestors-lived-all-over-the-world/)  
+* [Where did your genetic ancestors come from?](https://gcbias.org/2017/12/19/1628/)  
+
