@@ -48,3 +48,6 @@ A trilogy on human genetics:
 * [Your ancestors lived all over the world](https://gcbias.org/2017/11/28/your-ancestors-lived-all-over-the-world/)  
 * [Where did your genetic ancestors come from?](https://gcbias.org/2017/12/19/1628/)  
 
+Beware adaptationist story-telling: [The spandrels of San Marco](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.1979.0086)
+
+[The viruses that made us human](https://www.pbs.org/wgbh/nova/article/endogenous-retroviruses/)
