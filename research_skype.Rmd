@@ -43,7 +43,7 @@ knitr::read_chunk("chunks.R")
 
 ## Hey there!
 
-```{r, out.width = "250px",echo=F, fig.cap="The author during his third year of graduate school"}
+```{r, out.width = "250px",echo=F, fig.cap="**Me during my third year of graduate school**"}
 knitr::include_graphics("/Users/philippross/Dropbox/IMG_4320.jpg")
 ```
 
@@ -51,7 +51,7 @@ My name is Philipp Ross and I am a graduate student at the University of Chicago
 
 ## Computers
 
-```{r, out.width = "400px",echo=F, fig.cap="Image taken from https://news.stthomas.edu/tommie-experts-bhabani-misra-current-cobol-coding-conundrum/"}
+```{r, out.width = "400px",echo=F, fig.cap="**Image taken from https://news.stthomas.edu/tommie-experts-bhabani-misra-current-cobol-coding-conundrum/**"}
 knitr::include_graphics("/Users/philippross/Dropbox/coding.jpg")
 ```
 
@@ -59,7 +59,7 @@ When I was in college in New York, I studied bioengineering. Even though the fir
 
 ## Malaria
 
-```{r, out.width = "400px",echo=F, fig.cap="Image adapted from https://en.wikipedia.org/wiki/Malaria"}
+```{r, out.width = "400px",echo=F, fig.cap="**Image adapted from https://en.wikipedia.org/wiki/Malaria**"}
 knitr::include_graphics("/Users/philippross/Dropbox/merezoite.jpg")
 ```
 
@@ -69,12 +69,13 @@ In Pennsylvania, I joined the laboratory of Manuel Llinás where I worked on *Pl
 
 Think of a gene like a set of instructions. Living things read these instructions in order to build what are called proteins. Proteins are what actually do the work. They help you walk, talk, and think. And they also help parasites and viruses infect us. In order to cure diseases, scientists need to understand what genes to look at it so that they know what proteins to work on. Once we know how those proteins work, we can design vaccines to help people prevent getting sick in the future. 
 
-## Immunology
+## Immunity
 
-```{r, out.width = "600px",echo=F, fig.cap="Image of Naturak Killer (NK) cell communicating with a healthy cell using MHC and KIR proteins",}
+```{r, out.width = "600px",echo=F, fig.cap="**Image of a Natural Killer (NK) cell communicating with a healthy cell using MHC and KIR proteins**"}
 knitr::include_graphics("/Users/philippross/Dropbox/NKcell.png")
 ```
 
 When I was done working in Pennsylvania, I decided that I didn't want to work only on my computer anymore. So I decided to go to the University of Chicago to join the lab of Dr. Erin Adams, where I work on genes that encode for what are called MHC and KIR proteins. MHCs work to tell our immune system if something is wrong. They can do this by communicating with proteins found on white blood cells. Some of these proteins are called KIRs. In some situations, MHCs can communicate through KIRs to tell your immune system that you are sick and infected with a virus. This tells white blood cells, such as natural killer cells, to kill infected cells and call for help from other white blood cells. In this way, your body can eliminate a virus and return you to normal, where you aren't sick anymore.
 
 But how do we know what these proteins look like? In order to do that we use X-rays, tiny waves of light, so small that even our eyes cannot see them. But when we shine these tiny waves of light on a crystal, we can see what the crystal is made of. Once we do that, we can make an image of our protein like the one seen above.
+
