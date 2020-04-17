@@ -1,0 +1,44 @@
+---
+title: "Reveries"
+output: 
+  html_document:
+    theme: yeti
+    highlight: textmate
+editor_options: 
+  chunk_output_type: console
+---
+
+<style>
+h2 {
+  background-color: #e3ebee;
+  text-indent: 5px; 
+}
+</style>
+
+<!-- The file chunks.R contains chunks that define default settings -->
+```{r read-chunk, include=FALSE, cache=FALSE}
+knitr::read_chunk("chunks.R")
+```
+
+<!-- Update knitr chunk options -->
+```{r knitr-opts-chunk, include=FALSE}
+```
+
+<!-- Insert the date the file was last updated -->
+```{r last-updated, echo=FALSE, results='asis'}
+```
+
+<!-- Insert the code version (Git commit SHA1) if Git repository exists and R
+ package git2r is installed -->
+```{r code-version, include=FALSE, echo=FALSE, results='asis'}
+```
+
+<!-- packages -->
+```{r packages, echo=FALSE, include=FALSE}
+```
+
+<!-- custom defined functions -->
+```{r custom-functions, echo=FALSE}
+```
+
+When was the last time you had a memorable daydream? 

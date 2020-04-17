@@ -1,0 +1,80 @@
+---
+title: "My Science Journey"
+output: 
+  html_document:
+    theme: yeti
+    highlight: textmate
+editor_options: 
+  chunk_output_type: console
+---
+
+<style>
+h2 {
+  background-color: #e3ebee;
+  text-indent: 5px; 
+}
+</style>
+
+<!-- The file chunks.R contains chunks that define default settings -->
+```{r read-chunk, include=FALSE, cache=FALSE}
+knitr::read_chunk("chunks.R")
+```
+
+<!-- Update knitr chunk options -->
+```{r knitr-opts-chunk, include=FALSE}
+```
+
+<!-- Insert the date the file was last updated -->
+```{r last-updated, echo=FALSE, results='asis'}
+```
+
+<!-- Insert the code version (Git commit SHA1) if Git repository exists and R
+ package git2r is installed -->
+```{r code-version, include=FALSE, echo=FALSE, results='asis'}
+```
+
+<!-- packages -->
+```{r packages, echo=FALSE, include=FALSE}
+```
+
+<!-- custom defined functions -->
+```{r custom-functions, echo=FALSE}
+```
+
+## Hey there!
+
+```{r, out.width = "250px",echo=F, fig.cap="The author during his third year of graduate school"}
+knitr::include_graphics("/Users/philippross/Dropbox/IMG_4320.jpg")
+```
+
+My name is Philipp Ross and I am a graduate student at the University of Chicago where I work on genes that play important roles in our immune systems. In order to understand how these genes work I mainly do two things: I work on these genes one at a time and I do my best to understand what a single gene looks like if I could see it with my own eyes. That might sound confusing at first and I promise to explain what I mean in more detail soon But first, I wanted to tell you how I got to where I am now. How did I get to be a graduate student at the University of Chicago?
+
+## Computers
+
+```{r, out.width = "400px",echo=F, fig.cap="Image taken from https://news.stthomas.edu/tommie-experts-bhabani-misra-current-cobol-coding-conundrum/"}
+knitr::include_graphics("/Users/philippross/Dropbox/coding.jpg")
+```
+
+When I was in college in New York, I studied bioengineering. Even though the first part of that reads "bio", as in "bio-logy", I mainly worked on my computer. The most important skill I learned in college was how to program. Eventually, I also learned how to use computer programs to do what is called mathematical modeling, which is when you combine computer programming and math in order to run what are called simulations. An example of where mathematical modeling can be useful is in modeling how diseases spread through a population of people, just like with SARS-CoV-2, the virus that causes COVID19 that has caused the current pandemic.
+
+## Malaria
+
+```{r, out.width = "400px",echo=F, fig.cap="Image adapted from https://en.wikipedia.org/wiki/Malaria"}
+knitr::include_graphics("/Users/philippross/Dropbox/merezoite.jpg")
+```
+
+When I finished college, I went on to do research on Malaria in Pennsylvania. Some of you might have heard of Malaria before, but some of you might not have. Malaria is more common in places like Africa and India where it is a serious problem. Just like COVID19, Malaria is an infectious disease, although Malaria is not caused by a virus, but rather by a parasite called *Plasmodium* (see the image above). 
+
+In Pennsylvania, I joined the laboratory of Manuel Llinás where I worked on *Plasmodium* genomics. So what is a genome? You might recognize that genome contains the word "gen" which is short for gene. A genome is basically a collection of genes. Every living thing on planet Earth has its own genome, or its own collection of genes that make it unique. Understanding what these genes inside the genome do can help scientists design a cure for Malaria. So how do they do that?
+
+Think of a gene like a set of instructions. Living things read these instructions in order to build what are called proteins. Proteins are what actually do the work. They help you walk, talk, and think. And they also help parasites and viruses infect us. In order to cure diseases, scientists need to understand what genes to look at it so that they know what proteins to work on. Once we know how those proteins work, we can design vaccines to help people prevent getting sick in the future. 
+
+## Immunology
+
+```{r, out.width = "600px",echo=F, fig.cap="Image of Naturak Killer (NK) cell communicating with a healthy cell using MHC and KIR proteins",}
+knitr::include_graphics("/Users/philippross/Dropbox/NKcell.png")
+```
+
+When I was done working in Pennsylvania, I decided that I didn't want to work only on my computer anymore. So I decided to go to the University of Chicago to join the lab of Dr. Erin Adams, where I work on genes that encode for what are called MHC and KIR proteins. MHCs work to tell our immune system if something is wrong. They can do this by communicating with proteins found on white blood cells. Some of these proteins are called KIRs. In some situations, MHCs can communicate through KIRs to tell your immune system that you are sick and infected with a virus. This tells white blood cells, such as natural killer cells, to kill infected cells and call for help from other white blood cells. In this way, your body can eliminate a virus and return you to normal, where you aren't sick anymore.
+
+But how do we know what these proteins look like? In order to do that we use X-rays, tiny waves of light, so small that even our eyes cannot see them. But when we shine these tiny waves of light on a crystal, we can see what the crystal is made of. Once we do that, we can make an image of our protein like the one seen above.

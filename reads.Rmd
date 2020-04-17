@@ -40,7 +40,7 @@ knitr::read_chunk("chunks.R")
 
 The readings I would like to remember and come back to from time to time.
 
-[The bus ticket theory of genius](http://www.paulgraham.com/genius.html)
+Paul Graham describes [The bus ticket theory of genius](http://www.paulgraham.com/genius.html)
 
 A trilogy on human genetics:  
 
@@ -50,4 +50,4 @@ A trilogy on human genetics:
 
 Beware adaptationist story-telling: [The spandrels of San Marco](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.1979.0086)
 
-[The viruses that made us human](https://www.pbs.org/wgbh/nova/article/endogenous-retroviruses/)
+NPR covers endogenous retroviruses in [The viruses that made us human](https://www.pbs.org/wgbh/nova/article/endogenous-retroviruses/)
